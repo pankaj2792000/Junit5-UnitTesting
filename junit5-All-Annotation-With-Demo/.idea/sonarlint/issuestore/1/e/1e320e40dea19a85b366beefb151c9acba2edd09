@@ -1,0 +1,11 @@
+
+_
+java:S1612""=Replace this lambda with method reference 'Student::getName'.(‘Ôİıÿÿÿÿ8Å±ƒÅ‚3
+]
+java:S1612*";Replace this lambda with method reference 'Student::getId'.(œáš‚ÿÿÿÿÿ8Ç±ƒÅ‚3
+o
+java:S62044"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8È±ƒÅ‚3
+_
+java:S16123"=Replace this lambda with method reference 'Student::getName'.(‘Ôİıÿÿÿÿ8È±ƒÅ‚3
+o
+java:S6204<"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8É±ƒÅ‚3
