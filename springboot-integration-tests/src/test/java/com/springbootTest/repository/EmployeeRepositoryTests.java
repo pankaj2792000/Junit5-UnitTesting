@@ -18,7 +18,7 @@ public class EmployeeRepositoryTests {
 
     @Autowired
     private EmployeeRepository employeeRepository;
-    Employee employee1;
+    private Employee employee1;
 
 @BeforeEach
 public void setUp(){

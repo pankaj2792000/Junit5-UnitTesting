@@ -1,4 +1,7 @@
 package com.reactive.repository;
 
-public interface EmployeeRepository {
+import com.reactive.entity.Employee;
+import org.springframework.data.repository.reactive.ReactiveCrudRepository;
+
+public interface EmployeeRepository extends ReactiveCrudRepository<Employee,String> {
 }
